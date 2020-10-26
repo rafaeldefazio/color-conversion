@@ -74,7 +74,7 @@ def RGBtoCMY(r, g, b):
 # precondition: normalized RGB color
 # postcondition: color in XYZ (3 decimal places)
 # output[0] is X, Y, Z
-# outupt[1] is Xc, Yc, Zc
+# output[1] is Xc, Yc, Zc
 
 def RGBtoXYZ(r, g, b, decimal=3):
 
